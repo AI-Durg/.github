@@ -1,15 +1,18 @@
-# TFUG Durg (TensorFlow User Group Durg)
-![3P Logo -Durg (1)](https://github.com/TFUG-Durg/.github/assets/41143496/cf5ae039-252d-4a66-a561-a351268deeb7)
+# ML Durg
 
-Welcome to TFUG Durg! We are a community of TensorFlow enthusiasts, developers, researchers, and learners based in Durg, Chhattisgarh, India. This repository serves as the central hub for our community, where we collaborate, share resources, and organize events related to TensorFlow and machine learning.
+![TFUG Durg New Logo (3)](https://github.com/user-attachments/assets/9095ed70-8f14-44b2-9d6e-14b543040a2d)
+
+
+
+Welcome to ML Durg! We are a community of Machine Learning enthusiasts, developers, researchers, and learners based in Durg, Chhattisgarh, India. This repository serves as the central hub for our community, where we collaborate, share resources, and organize events related to TensorFlow and machine learning.
 
 ## About Us
 
-TFUG Durg is dedicated to promoting the adoption and understanding of TensorFlow and machine learning technologies within our community. Whether you're a seasoned machine learning practitioner or just starting out, everyone is welcome to join us and contribute.
+ML Durg is dedicated to promoting the adoption and understanding of TensorFlow and machine learning technologies within our community. Whether you're a seasoned machine learning practitioner or just starting out, everyone is welcome to join us and contribute.
 
 ## Getting Involved
 
-There are several ways to get involved with TFUG Durg:
+There are several ways to get involved with ML Durg:
 
 - **Join our community**: Come hang out with us on our [Discord server](https://discord.gg/mYmx8jzHum) where you can chat with other members, ask questions, and share your projects and ideas.
 - **Attend our events**: Keep an eye on our event calendar for meetups, workshops, and other events related to TensorFlow and machine learning.
